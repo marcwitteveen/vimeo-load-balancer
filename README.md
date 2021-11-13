@@ -1,0 +1,2 @@
+# VimeoLoadBalancer
+Using this class you can load a video from one or multiple vimeo accounts. Depending on the configuration it will either always load the same selected video, a video depending on the day of the week or a random video.

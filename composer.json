@@ -1,0 +1,22 @@
+{
+    "name": "marcwitteveen/vimeo-load-balancer",
+    "description": "A load balancer for multiple vimeo accounts, either load a video from an account based upon a week day, a random account or one selected account.",
+    "keywords": ["vimeo", "load balancer", "random account"],
+    "homepage": "https://github.com/marcwitteveen/vimeo-load-balancer/",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Marc Witteveen",
+            "email": "marc.witteveen@gmail.com",
+            "homepage": "https://marcwitteveen.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "MarcWitteveen\\VimeoLoadBalancer\\": "src"
+        }
+    }
+}
